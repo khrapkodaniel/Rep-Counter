@@ -1,4 +1,2 @@
 # RepCounter
-first c++ program
-
-tracks reps and workout duration
+Tracks reps and the duration of one's workout.
