@@ -1,2 +1,2 @@
 # RepCounter
-Tracks reps and the duration of one's workout.
+Tracks reps and the duration of one's workout
